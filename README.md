@@ -1,8 +1,8 @@
 # Linux
 
 ### 1. Linux 명령어
-- **cd :** 디렉토리 이동
-- **touch :** 0byte 파일 생성
+- **cd :** 디렉토리 이동 [[예제]](https://rebel-lord-f41.notion.site/cd-775daca1b22e486f96dec427e1ea5e32?pvs=4)
+- **touch :** 0byte 파일 생성 [[예제]](https://rebel-lord-f41.notion.site/touch-0byte-1a15ec0d81044c92b1437ae504feda55?pvs=4)
 - **rm :** 파일 / 디렉토리 삭제
 - **rmdir :** 비어있는 디렉토리 삭제
 - **mkdir :** 디렉토리 생성

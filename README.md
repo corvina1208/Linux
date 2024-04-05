@@ -3,22 +3,31 @@
 ### 1. Linux 명령어
 - **cd :** 디렉토리 이동 [[예제]](https://rebel-lord-f41.notion.site/cd-775daca1b22e486f96dec427e1ea5e32?pvs=4)
 - **touch :** 0byte 파일 생성 [[예제]](https://rebel-lord-f41.notion.site/touch-0byte-1a15ec0d81044c92b1437ae504feda55?pvs=4)
-- **rm :** 파일 / 디렉토리 삭제
-- **rmdir :** 비어있는 디렉토리 삭제
-- **mkdir :** 디렉토리 생성
-- **alias :** 자주 사용하는 명령어 설정
-- **cat :** 파일 내용 출력
-- **redirection :** 출력되는 결과 저장
-- **more :** 문서 내용 페이지 단위로 보기
-- **head & tail :** 문서의 처음 / 마지막 줄 일부 출력
-- **wc** : 파일 내 단어 / 라인 / 철자 갯수 출력
-- **grep :** 파일 내 단어 / 구문 검색
-- **awk :** 특정 조건으로 특정 컬럼 상세 검색
-- **sort :** 테이터를 특정 컬럼 기준으로 정렬
-- **uniq :** 테이터를 특정 컬럼 기준으로 정렬
-- **diff :** 두 파일 간의 차이점 찾기
-- **sed :** 파일 내용 검색 / 변경
-- **cp :** 파일 복사
-- **mv :** 파일 이동 / 파일명 변경
-- **chown :** 파일 & 디렉토리 소유자 변경
-- **chmod :** 파일 & 디렉토리 권한 변경
+- **rm :** 파일 / 디렉토리 삭제 [[예제]](https://rebel-lord-f41.notion.site/rm-9c46e2840c2144eab6c4bee2aba3cff0?pvs=4)
+- **rmdir :** 비어있는 디렉토리 삭제 [[예제]](https://rebel-lord-f41.notion.site/rmdir-de0a4aa0202b4f4e9f1c72827731c515?pvs=4)
+- **mkdir :** 디렉토리 생성 [[예제]](https://rebel-lord-f41.notion.site/mkdir-35da660e83f04fcc8a4af369f13376f5?pvs=4)
+- **alias :** 자주 사용하는 명령어 설정 [[예제]](https://rebel-lord-f41.notion.site/alias-60d52cee70e64de09fb6e4ae9967c9b1?pvs=4)
+- **cat :** 파일 내용 출력 [[예제]](https://rebel-lord-f41.notion.site/cat-82d5706991cb416db8e3721dc5e265a6?pvs=4)
+- **redirection :** 출력되는 결과 저장 [[예제]](https://rebel-lord-f41.notion.site/redirection-58a4103ab1bf42b7861f9746aca3b45c?pvs=4)
+- **more :** 문서 내용 페이지 단위로 보기 [[예제]](https://rebel-lord-f41.notion.site/more-75d536c2e7c74c76afaf6c6eff44ed43?pvs=4)
+- **head & tail :** 문서의 처음 / 마지막 줄 일부 출력 [[예제]](https://rebel-lord-f41.notion.site/head-tail-db2ae074ac6a44c4ab925b78a754a3d1?pvs=4)
+- **wc** : 파일 내 단어 / 라인 / 철자 갯수 출력 [[예제]](https://rebel-lord-f41.notion.site/wc-abb78571f7f34202bcd2e6dfd1936c38?pvs=4)
+- **grep :** 파일 내 단어 / 구문 검색 [[예제]](https://rebel-lord-f41.notion.site/grep-5a5ef0d2e3e34223adde4ad1b19c3dcb?pvs=4)
+- **awk :** 특정 조건으로 특정 컬럼 상세 검색 [[예제]](https://rebel-lord-f41.notion.site/awk-66191fc84e69458b97f4f84ba669d8e5?pvs=4)
+- **sort :** 테이터를 특정 컬럼 기준으로 정렬 [[예제]](https://rebel-lord-f41.notion.site/sort-9a70912e1b5b435db754b1ff9a4024bb?pvs=4)
+- **uniq :** 테이터를 특정 컬럼 기준으로 정렬 [[예제]](https://rebel-lord-f41.notion.site/uniq-106447325eb64fd5820e2ee47df0493c?pvs=4)
+- **diff :** 두 파일 간의 차이점 찾기 [[예제]](https://rebel-lord-f41.notion.site/diff-a4a7e22acd384a6684662f4e8c7a3096?pvs=4)
+- **sed :** 파일 내용 검색 / 변경 [[예제]](https://rebel-lord-f41.notion.site/sed-a136e1f0219c484790fb669c587d3265?pvs=4)
+- **cp :** 파일 복사 [[예제]](https://rebel-lord-f41.notion.site/cp-157e5c5f0b944c5e887ecd02b62d9857?pvs=4)
+- **mv :** 파일 이동 / 파일명 변경 [[예제]](https://rebel-lord-f41.notion.site/mv-8ee5aa7ff9bb4c6b9a8a20ddda017728?pvs=4)
+- **chown :** 파일 & 디렉토리 소유자 변경 [[예제]](https://rebel-lord-f41.notion.site/chown-66d479664d36426cabc392d3be24e905?pvs=4)
+- **chmod :** 파일 & 디렉토리 권한 변경 [[예제]](https://rebel-lord-f41.notion.site/chmod-5ec31e698c8640fd99cd53891de657ef?pvs=4)
+- **top :** CPU & 메모리 사용율 확인 [[예제]](https://rebel-lord-f41.notion.site/top-CPU-47e64b879171485cbcc08aada6893e10?pvs=4)
+- **ps :** 수행중인 프로세서 정보 표시 [[예제]](https://rebel-lord-f41.notion.site/ps-4b3d8d89fe5341e5b0251f6f514e8d19?pvs=4)
+- **sar :** 디스크 사용 현황 실시간 확인 [[예제]](https://rebel-lord-f41.notion.site/sar-20220b0599af47e4a6baff4e53f23b96?pvs=4)
+- **df :** 현재 파일 시스템 총 사용 확인 [[예제]](https://rebel-lord-f41.notion.site/df-5acca3385d79480d81cd9273d4516041?pvs=4)
+- **du :** 현재 디렉토리 디스크 사용량 표시 [[예제]](https://rebel-lord-f41.notion.site/du-390196be7dd64eb1b200e73df05fb195?pvs=4)
+- **uname :** 현재 OS 확인 [[예제]](https://rebel-lord-f41.notion.site/uname-OS-6c16c6fc9e714cdd8171d8e493145857?pvs=4)
+- **tar :** 파일을 하나로 묶기 & 풀기 [[예제]](https://rebel-lord-f41.notion.site/tar-0ea03e02f8e9437f93d82102d8f15bed?pvs=4)
+- **scp :** 원격지에 파일 복사 [[예제]](https://rebel-lord-f41.notion.site/scp-d4d3e72bef3448b792eb13a0e7bd606f?pvs=4)
+- **vi :** 편집기 [[예제]](https://rebel-lord-f41.notion.site/vi-12e56cf398b14e20b54ac1b3ffe5f3b0?pvs=4)
